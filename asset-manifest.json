@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.7dc2c717.chunk.css",
-    "main.js": "/static/js/main.5132456b.chunk.js",
-    "main.js.map": "/static/js/main.5132456b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.248d202e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.248d202e.js.map",
-    "static/css/2.f22687d4.chunk.css": "/static/css/2.f22687d4.chunk.css",
-    "static/js/2.07bdd9b8.chunk.js": "/static/js/2.07bdd9b8.chunk.js",
-    "static/js/2.07bdd9b8.chunk.js.map": "/static/js/2.07bdd9b8.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2a6d2619e138beca31422d6ff01d9c53.js": "/precache-manifest.2a6d2619e138beca31422d6ff01d9c53.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.f22687d4.chunk.css.map": "/static/css/2.f22687d4.chunk.css.map",
-    "static/css/main.7dc2c717.chunk.css.map": "/static/css/main.7dc2c717.chunk.css.map",
-    "static/js/2.07bdd9b8.chunk.js.LICENSE.txt": "/static/js/2.07bdd9b8.chunk.js.LICENSE.txt"
+    "main.css": "/mm-custom-app/static/css/main.7dc2c717.chunk.css",
+    "main.js": "/mm-custom-app/static/js/main.36089b85.chunk.js",
+    "main.js.map": "/mm-custom-app/static/js/main.36089b85.chunk.js.map",
+    "runtime-main.js": "/mm-custom-app/static/js/runtime-main.5039304a.js",
+    "runtime-main.js.map": "/mm-custom-app/static/js/runtime-main.5039304a.js.map",
+    "static/css/2.f22687d4.chunk.css": "/mm-custom-app/static/css/2.f22687d4.chunk.css",
+    "static/js/2.bc722357.chunk.js": "/mm-custom-app/static/js/2.bc722357.chunk.js",
+    "static/js/2.bc722357.chunk.js.map": "/mm-custom-app/static/js/2.bc722357.chunk.js.map",
+    "index.html": "/mm-custom-app/index.html",
+    "precache-manifest.7b225969fb9801f938a1f249f6c93af0.js": "/mm-custom-app/precache-manifest.7b225969fb9801f938a1f249f6c93af0.js",
+    "service-worker.js": "/mm-custom-app/service-worker.js",
+    "static/css/2.f22687d4.chunk.css.map": "/mm-custom-app/static/css/2.f22687d4.chunk.css.map",
+    "static/css/main.7dc2c717.chunk.css.map": "/mm-custom-app/static/css/main.7dc2c717.chunk.css.map",
+    "static/js/2.bc722357.chunk.js.LICENSE.txt": "/mm-custom-app/static/js/2.bc722357.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.248d202e.js",
+    "static/js/runtime-main.5039304a.js",
     "static/css/2.f22687d4.chunk.css",
-    "static/js/2.07bdd9b8.chunk.js",
+    "static/js/2.bc722357.chunk.js",
     "static/css/main.7dc2c717.chunk.css",
-    "static/js/main.5132456b.chunk.js"
+    "static/js/main.36089b85.chunk.js"
   ]
 }
